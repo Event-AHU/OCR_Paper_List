@@ -5,6 +5,13 @@ OCR related works published in top conferences and journals.
 ### Pre-print: 
 
 ### arXiv Papers 
+
+* 
+
+* **Relational Contrastive Learning for Scene Text Recognition**, Jinglei Zhang, Tiancheng Lin, Yi X, Kai Chen, Rui Zhang,
+[[Paper](https://arxiv.org/pdf/2308.00508.pdf)]
+[[Code](https://github.com/ThunderVVV/RCLSTR)] 
+
 * **Context Perception Parallel Decoder for Scene Text Recognition**, Yongkun Du1, Zhineng Chen1*, Caiyan Jia2, Xiaoting Yin3, Chenxia Li3, Yuning Du3, Yu-Gang Jiang1,
 [[Paper](https://arxiv.org/pdf/2307.12270.pdf)]
 [[Code]()]
