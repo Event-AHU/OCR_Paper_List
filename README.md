@@ -2,11 +2,13 @@
 OCR related works published in top conferences and journals. 
 
 
-### Pre-print: 
+### Survey and Review: 
+
+* **文档智能分析与识别前沿：回顾与展望**, 刘成林, 金连文, 白翔, 李晓辉, 殷飞，中国图形图像学报，[[Paper](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=202211150000002)] 
 
 ### arXiv Papers 
 
-* 
+
 
 * **Relational Contrastive Learning for Scene Text Recognition**, Jinglei Zhang, Tiancheng Lin, Yi X, Kai Chen, Rui Zhang,
 [[Paper](https://arxiv.org/pdf/2308.00508.pdf)]
