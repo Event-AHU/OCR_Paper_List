@@ -18,6 +18,10 @@ OCR related works published in top conferences and journals.
 [[Paper](https://arxiv.org/pdf/2307.12270.pdf)]
 [[Code]()]
 
+* **Revisiting Scene Text Recognition: A Data Perspective**,Qing Jiang , Jiapeng Wang , Dezhi Peng , Chongyu Liu , Lianwen Jin†,
+[[Paper](https://arxiv.org/pdf/2307.08723.pdf)]
+[[Code](https://github.com/Mountchicken/Union14M)]
+
 
 ### ECCV-2022 
 ### IJCAI 2022 
