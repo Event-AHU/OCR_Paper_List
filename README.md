@@ -26,6 +26,14 @@ OCR related works published in top conferences and journals.
 ### ECCV-2022 
 ### IJCAI 2022 
 ### CVPR-2022
+
+
+
+* **Knowledge Mining with Scene Text for Fine-Grained Recognition**, Hao Wang1*, Junchao Liao1*, Tianheng Cheng1, Zewen Gao1, Hao Liu2, Bo Ren2, Xiang Bai1, Wenyu Liu1†,
+[[Paper](https://arxiv.org/pdf/2203.14215.pdf)]
+[[Code](https://github.com/lanfeng4659/KnowledgeMiningWithSceneText)]
+
+
 ### AAAI-2022 
 ### ICCV-2021
 ### CVPR-2021
