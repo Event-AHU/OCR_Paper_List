@@ -22,6 +22,10 @@ OCR related works published in top conferences and journals.
 [[Paper](https://arxiv.org/pdf/2307.08723.pdf)]
 [[Code](https://github.com/Mountchicken/Union14M)]
 
+* **SwinLSTM: Improving Spatiotemporal Prediction Accuracy using Swin Transformer and LSTM**,Song Tang*, Chuang Li∗, Pu Zhang, RongNian Tang†,
+[[Paper](https://arxiv.org/pdf/2308.09891.pdf)]
+[[Code](https://github.com/SongTang-x/SwinLSTM)]
+
 
 ### ECCV-2022 
 ### IJCAI 2022 
