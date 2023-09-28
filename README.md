@@ -6,8 +6,16 @@ OCR related works published in top conferences and journals.
 
 * **文档智能分析与识别前沿：回顾与展望**, 刘成林, 金连文, 白翔, 李晓辉, 殷飞，中国图形图像学报，[[Paper](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=202211150000002)] 
 
+### CVPR-2023
+
+* **Self-supervised Implicit Glyph Attention for Text Recognition**,Tongkun Guan1, Chaochen Gu2*, Jingzheng Tu2, Xue Yang1, Qi Feng2, Yudi Zhao2, Wei Shen1*
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Guan_Self-Supervised_Implicit_Glyph_Attention_for_Text_Recognition_CVPR_2023_paper.pdf)]
+[[Code](https://github.com/TongkunGuan/SIGA)]
+
+
 
 ### ICCV-2023
+
 * **Self-supervised Character-to-Character Distillation for Text Recognition**,Tongkun Guan1, Wei Shen1, Xue Yang1, Qi Feng2, Zekun Jiang1, Xiaokang Yang1
 [[Paper](https://arxiv.org/pdf/2211.00288.pdf)]
 [[Code](https://github.com/TongkunGuan/CCD)]
