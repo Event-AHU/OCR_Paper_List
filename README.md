@@ -5,7 +5,11 @@ OCR related works published in top conferences and journals.
 ### Survey and Review: 
 
 * **文档智能分析与识别前沿：回顾与展望**, 刘成林, 金连文, 白翔, 李晓辉, 殷飞，中国图形图像学报，[[Paper](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=202211150000002)]
+* **Visual Text Meets Low-level Vision: A Comprehensive Survey on Visual Text Processing**, Yan Shu, Weichao Zeng, Zhenhang Li, Fangmin Zhao, Yu Zhou
+  [[Paper](https://arxiv.org/abs/2402.03082)]
 
+
+  
 ### Year-2023 
 
 * **STEP - Towards Structured Scene-Text Spotting**, Sergi Garcia-Bordils1,2 Dimosthenis Karatzas1 Marc¸al Rusinol, [[Paper](https://arxiv.org/pdf/2309.02356.pdf)] [[Code](https://github.com/Sergigb/)]
