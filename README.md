@@ -9,6 +9,13 @@ OCR related works published in top conferences and journals.
   [[Paper](https://arxiv.org/abs/2402.03082)]
 
 
+### Year 2024 
+
+* **Class-Aware Mask-Guided Feature Refinement for Scene Text Recognition**, Mingkun Yang, Biao Yang, Minghui Liao, Yingying Zhu, Xiang Bai
+  [[Paper](https://arxiv.org/abs/2402.13643)]
+
+* 
+
   
 ### Year-2023 
 
