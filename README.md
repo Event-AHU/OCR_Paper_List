@@ -11,6 +11,9 @@ OCR related works published in top conferences and journals.
 
 ### Year 2024 
 
+* **Enhancing Visual Document Understanding with Contrastive Learning in Large Visual-Language Models**, Xin Li, Yunfei Wu, Xinghua Jiang, Zhihao Guo, Mingming Gong, Haoyu Cao, Yinsong Liu, Deqiang Jiang, Xing Sun
+  [[Paper](https://arxiv.org/abs/2402.19014)]
+
 * [PR-2024] **Class-Aware Mask-Guided Feature Refinement for Scene Text Recognition**, Mingkun Yang, Biao Yang, Minghui Liao, Yingying Zhu, Xiang Bai
   [[Paper](https://arxiv.org/abs/2402.13643)]
   [[Code](https://github.com/MelosY/CAM )]
