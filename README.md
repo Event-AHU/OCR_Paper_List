@@ -11,6 +11,9 @@ OCR related works published in top conferences and journals.
 
 ### Year 2024 
 
+* **Efficiently Leveraging Linguistic Priors for Scene Text Spotting**, Nguyen Nguyen, Yapeng Tian, Chenliang Xu
+  [[Paper](https://arxiv.org/abs/2402.17134)] 
+
 * **Enhancing Visual Document Understanding with Contrastive Learning in Large Visual-Language Models**, Xin Li, Yunfei Wu, Xinghua Jiang, Zhihao Guo, Mingming Gong, Haoyu Cao, Yinsong Liu, Deqiang Jiang, Xing Sun
   [[Paper](https://arxiv.org/abs/2402.19014)]
 
@@ -41,8 +44,6 @@ OCR related works published in top conferences and journals.
 
 
 ### arXiv Papers 
-
-
 
 * **Relational Contrastive Learning for Scene Text Recognition**, Jinglei Zhang, Tiancheng Lin, Yi X, Kai Chen, Rui Zhang,
 [[Paper](https://arxiv.org/pdf/2308.00508.pdf)]
