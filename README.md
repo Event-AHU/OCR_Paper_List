@@ -11,6 +11,10 @@ OCR related works published in top conferences and journals.
 
 ### Year 2024 
 
+* **TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document**, Yuliang Liu, Biao Yang, Qiang Liu, Zhang Li, Zhiyin Ma, Shuo Zhang, Xiang Bai
+  [[Paper](https://arxiv.org/abs/2403.04473)]
+  [[Code](https://github.com/Yuliang-Liu/Monkey)]
+
 * **Efficiently Leveraging Linguistic Priors for Scene Text Spotting**, Nguyen Nguyen, Yapeng Tian, Chenliang Xu
   [[Paper](https://arxiv.org/abs/2402.17134)] 
 
