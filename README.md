@@ -11,6 +11,10 @@ OCR related works published in top conferences and journals.
 
 ### Year 2024 
 
+* **Visually Guided Generative Text-Layout Pre-training for Document Intelligence**, NAACL 2024, 
+  Zhiming Mao, Haoli Bai, Lu Hou, Jiansheng Wei, Xin Jiang, Qun Liu, Kam-Fai Wong
+  [[NAACL 2024](https://arxiv.org/abs/2403.16516)] 
+  
 * **TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document**, Yuliang Liu, Biao Yang, Qiang Liu, Zhang Li, Zhiyin Ma, Shuo Zhang, Xiang Bai
   [[Paper](https://arxiv.org/abs/2403.04473)]
   [[Code](https://github.com/Yuliang-Liu/Monkey)]
