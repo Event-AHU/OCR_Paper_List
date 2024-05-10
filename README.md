@@ -11,6 +11,11 @@ OCR related works published in top conferences and journals.
 
 ### Year 2024 
 
+
+* [IJCAI 2024] **Self-Supervised Pre-training with Symmetric Superimposition Modeling for Scene Text Recognition**, arXiv:2405.05841, 
+  Zuan Gao, Yuxin Wang, Yadong Qu, Boqiang Zhang, Zixiao Wang, Jianjun Xu, Hongtao Xie
+  [[Paper](https://arxiv.org/abs/2405.05841)]  
+
 * **Visually Guided Generative Text-Layout Pre-training for Document Intelligence**, NAACL 2024, 
   Zhiming Mao, Haoli Bai, Lu Hou, Jiansheng Wei, Xin Jiang, Qun Liu, Kam-Fai Wong
   [[NAACL 2024](https://arxiv.org/abs/2403.16516)] 
