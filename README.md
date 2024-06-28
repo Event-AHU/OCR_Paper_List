@@ -12,6 +12,10 @@ OCR related works published in top conferences and journals.
 ### Year 2024 
 
 
+* [arXiv:2406.19101] **DocKylin: A Large Multimodal Model for Visual Document Understanding with Efficient Visual Slimming**,
+  Jiaxin Zhang, Wentao Yang, Songxuan Lai, Zecheng Xie, Lianwen Jin
+  [[Paper](https://arxiv.org/abs/2406.19101)] 
+  
 * [IJCAI 2024] **Self-Supervised Pre-training with Symmetric Superimposition Modeling for Scene Text Recognition**, arXiv:2405.05841, 
   Zuan Gao, Yuxin Wang, Yadong Qu, Boqiang Zhang, Zixiao Wang, Jianjun Xu, Hongtao Xie
   [[Paper](https://arxiv.org/abs/2405.05841)]  
