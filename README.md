@@ -12,6 +12,10 @@ OCR related works published in top conferences and journals.
 ### Year 2024 
 
 
+
+* [arXiv:2407.17020] **EAFormer: Scene Text Segmentation with Edge-Aware Transformers**, Haiyang Yu, Teng Fu, Bin Li, Xiangyang Xue
+  [[Paper](https://arxiv.org/abs/2407.17020)] 
+
 * [arXiv:2406.19101] **DocKylin: A Large Multimodal Model for Visual Document Understanding with Efficient Visual Slimming**,
   Jiaxin Zhang, Wentao Yang, Songxuan Lai, Zecheng Xie, Lianwen Jin
   [[Paper](https://arxiv.org/abs/2406.19101)] 
