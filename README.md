@@ -8,10 +8,12 @@ OCR related works published in top conferences and journals.
 * **Visual Text Meets Low-level Vision: A Comprehensive Survey on Visual Text Processing**, Yan Shu, Weichao Zeng, Zhenhang Li, Fangmin Zhao, Yu Zhou
   [[Paper](https://arxiv.org/abs/2402.03082)]
 
+* [arXiv:2407.19889] **Self-Supervised Learning for Text Recognition: A Critical Survey**, Carlos Penarrubia, Jose J. Valero-Mas, Jorge Calvo-Zaragoza
+  [[Paper](https://arxiv.org/abs/2407.19889)]
+  
+
 
 ### Year 2024 
-
-
 
 * [arXiv:2407.17020] **EAFormer: Scene Text Segmentation with Edge-Aware Transformers**, Haiyang Yu, Teng Fu, Bin Li, Xiangyang Xue
   [[Paper](https://arxiv.org/abs/2407.17020)] 
