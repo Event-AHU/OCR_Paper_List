@@ -15,7 +15,7 @@ OCR related works published in top conferences and journals.
 
 ### Year 2024 
 
-* [arXiv:2408.00106] **WAS: Dataset and Methods for Artistic Text Segmentation**, Xudong Xie, Yuzhe Li, Yang Liu, Zhifei Zhang, Zhaowen Wang, Wei Xiong, Xiang Bai
+* [ECCV 2024] **WAS: Dataset and Methods for Artistic Text Segmentation**, Xudong Xie, Yuzhe Li, Yang Liu, Zhifei Zhang, Zhaowen Wang, Wei Xiong, Xiang Bai
   [[Paper](https://export.arxiv.org/pdf/2408.00106)]
   [[Code](https://github.com/xdxie/WAS_WordArt-Segmentation)]
   
