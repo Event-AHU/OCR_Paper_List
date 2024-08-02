@@ -15,6 +15,10 @@ OCR related works published in top conferences and journals.
 
 ### Year 2024 
 
+* [arXiv:2408.00106] **WAS: Dataset and Methods for Artistic Text Segmentation**, Xudong Xie, Yuzhe Li, Yang Liu, Zhifei Zhang, Zhaowen Wang, Wei Xiong, Xiang Bai
+  [[Paper](https://export.arxiv.org/pdf/2408.00106)]
+  [[Code](https://github.com/xdxie/WAS_WordArt-Segmentation)]
+  
 * [arXiv:2407.17020] **EAFormer: Scene Text Segmentation with Edge-Aware Transformers**, Haiyang Yu, Teng Fu, Bin Li, Xiangyang Xue
   [[Paper](https://arxiv.org/abs/2407.17020)] 
 
