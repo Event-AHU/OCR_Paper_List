@@ -15,6 +15,10 @@ OCR related works published in top conferences and journals.
 
 ### Year 2024 
 
+* [IJCAI 2024] Zhou, Bangbang, et al. "**Focus on the Whole Character: Discriminative Character Modeling for Scene Text Recognition**." arXiv preprint arXiv:2407.05562 (2024).
+  [[Paper](https://arxiv.org/abs/2407.05562)]
+  [[Code](https://github.com/bang123-box/CFE)] 
+
 * [ECCV 2024] **WAS: Dataset and Methods for Artistic Text Segmentation**, Xudong Xie, Yuzhe Li, Yang Liu, Zhifei Zhang, Zhaowen Wang, Wei Xiong, Xiang Bai
   [[Paper](https://export.arxiv.org/pdf/2408.00106)]
   [[Code](https://github.com/xdxie/WAS_WordArt-Segmentation)]
