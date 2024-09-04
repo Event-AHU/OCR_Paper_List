@@ -15,6 +15,10 @@ OCR related works published in top conferences and journals.
 
 ### Year 2024 
 
+* [arXiv:2409.01704] **General OCR Theory: Towards OCR-2.0 via a Unified End-to-end Model**, Haoran Wei, Chenglong Liu, Jinyue Chen
+  [[Paper](https://arxiv.org/pdf/2409.01704)]
+  [[Code](https://github.com/Ucas-HaoranWei/GOT-OCR2.0)]
+  
 * [IJCAI 2024] Zhou, Bangbang, et al. "**Focus on the Whole Character: Discriminative Character Modeling for Scene Text Recognition**." arXiv preprint arXiv:2407.05562 (2024).
   [[Paper](https://arxiv.org/abs/2407.05562)]
   [[Code](https://github.com/bang123-box/CFE)] 
