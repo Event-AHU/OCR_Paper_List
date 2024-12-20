@@ -11,7 +11,10 @@ OCR related works published in top conferences and journals.
 * [arXiv:2407.19889] **Self-Supervised Learning for Text Recognition: A Critical Survey**, Carlos Penarrubia, Jose J. Valero-Mas, Jorge Calvo-Zaragoza
   [[Paper](https://arxiv.org/abs/2407.19889)]
   
+### AAAI-2025
 
+* **Arbitrary Reading Order Scene Text Spotter with Local Semantics Guidance**,Jiahao Lyu, Wei Wang, Dongbao Yang, Jinwen Zhong, Yu Zhou
+[[Paper](https://arxiv.org/abs/2412.10159)]
 
 ### Year 2024 
 
