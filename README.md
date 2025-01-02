@@ -95,6 +95,9 @@ OCR related works published in top conferences and journals.
 [[Paper](https://arxiv.org/pdf/2307.08723.pdf)]
 [[Code](https://github.com/Mountchicken/Union14M)]
 
+* **Enhancing Table Recognition with Vision LLMs:A Benchmark andNeighbor-Guided Toolchain Reasoner**,Yitong Zhou1, Mingyue Cheng1, Qingyang Mao1, Qi Liu1, Feiyang Xu2, Xin Li2, Enhong Chen1，
+[[Paper](https://arxiv.org/pdf/2412.20662)]
+
 
 ### ECCV-2022 
 ### IJCAI 2022 
