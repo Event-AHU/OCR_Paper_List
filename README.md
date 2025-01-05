@@ -11,10 +11,15 @@ OCR related works published in top conferences and journals.
 * [arXiv:2407.19889] **Self-Supervised Learning for Text Recognition: A Critical Survey**, Carlos Penarrubia, Jose J. Valero-Mas, Jorge Calvo-Zaragoza
   [[Paper](https://arxiv.org/abs/2407.19889)]
   
-### AAAI-2025
+### Year-2025
 
 * **Arbitrary Reading Order Scene Text Spotter with Local Semantics Guidance**,Jiahao Lyu, Wei Wang, Dongbao Yang, Jinwen Zhong, Yu Zhou
 [[Paper](https://arxiv.org/abs/2412.10159)]
+
+* **OCRBench v2: An Improved Benchmark for Evaluating Large Multimodal Models on Visual Text Localization and Reasoning**,
+  Ling Fu, Biao Yang, Zhebin Kuang, Jiajun Song, Yuzhe Li, Linghao Zhu, Qidi Luo, Xinyu Wang, Hao Lu, Mingxin Huang, Zhang Li, Guozhi Tang, Bin Shan, Chunhui Lin, Qi Liu, Binghong Wu, Hao Feng, Hao Liu, Can Huang, Jingqun Tang, Wei Chen, Lianwen Jin, Yuliang Liu, Xiang Bai
+  [[Paper](https://arxiv.org/abs/2501.00321)]
+  [[Project Page](https://github.com/Yuliang-liu/MultimodalOCR)] 
 
 ### Year 2024 
 
